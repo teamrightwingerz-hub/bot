@@ -48,9 +48,7 @@ MODERATOR_USER_IDS = [
 
 # Authorized Posters
 AUTHORIZED_POSTERS = [
-    5818264126, 7216964150, 1148982183, 1637312329, 7237959274,
-    7070819763, 8440728446, 1821505023, 5780565639, 7979451731,
-    8184176763, 7248202123, 7997598506, 7746824731, 5990586876
+    7216964150, 7237959274, 7070819763, 8184176763, 7248202123, 7997598506, 7746824731, 5870266278
 ]
 
 # Pre-recorded rejection reasons (with full text)
@@ -58,7 +56,7 @@ PRERECORDED_REASONS = [
     "Inappropriate content or language",
     "Spam or promotional content",
     "Not relevant to channel theme",
-    "Low quality or unclear content",
+    "Low quality content",
     "Duplicate or already posted",
     "Violates community guidelines",
     "Misleading or false information",
